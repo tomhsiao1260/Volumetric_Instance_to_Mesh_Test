@@ -1,0 +1,11 @@
+numpy<2
+scipy
+scikit-image
+scikit-learn
+trimesh
+tqdm
+matplotlib
+pyvista
+pynrrd
+numba
+fastmorph
